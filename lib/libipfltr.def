@@ -1,0 +1,23 @@
+LIBRARY 		"ipfltr.dll"
+DESCRIPTION		"IP Filter Library"
+VERSION			1.0
+
+SECTIONS		.share read write shared
+
+EXPORTS 
+
+	IPFGetVersion
+	IPFSetFilter
+	IPFDelFilter
+	IPFEnumFilter
+	IPFStartFilter
+	IPFStopFilter
+	IPFStartLog
+	IPFStopLog
+	IPFSetLog
+	IPFGetLogBuffer
+	IsServiceInstalled
+	
+	
+	
+		

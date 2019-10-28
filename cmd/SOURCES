@@ -1,0 +1,4 @@
+TARGETNAME=ipfilter
+TARGETPATH=Debug\
+TARGETTYPE=program
+SOURCES=ipfilter.c

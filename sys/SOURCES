@@ -1,0 +1,7 @@
+TARGETNAME=ipfltr		
+TARGETPATH=.\obj
+TARGETTYPE=DRIVER
+SOURCES=ipfltr.c	\
+	    pfilter.c	\
+		util.c		\
+	    ipfltr.rc	
